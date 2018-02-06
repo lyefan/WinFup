@@ -18,6 +18,8 @@ namespace WinFup
             InitializeComponent();
             // 提示消息
             MessageBox.Show("...");
+
+            // 按钮事件
         }
     }
 }

@@ -15,6 +15,8 @@ namespace WinFup
         public Form1()
         {
             InitializeComponent();
+            // 提示消息
+            MessageBox.Show("...");
         }
     }
 }

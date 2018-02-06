@@ -12,6 +12,7 @@ namespace WinFup
 {
     public partial class Form1 : Form
     {
+        // 初始化构造方法
         public Form1()
         {
             InitializeComponent();
